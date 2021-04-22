@@ -7,7 +7,6 @@
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/himanshusingh335/count.svg" alt="vistor count" height="30" /></td>
-    ![counter](https://[YourEndpoint].m.pipedream.net)
   </tr>
 </table>
 
