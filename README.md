@@ -11,7 +11,7 @@
 </table>
 
  #### Stats:
- ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh335&count_private=true&show_icons=true&theme=dark)
+ ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh335&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
