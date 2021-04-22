@@ -11,7 +11,7 @@
 </table>
 
  #### Stats:
- ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh335&count_private=true&show_icons=true&theme=dark)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshusingh335)](https://github.com/himanshusingh335)
+ ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh335&count_private=true&show_icons=true&theme=darkhide=contribs,issues))
 #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
