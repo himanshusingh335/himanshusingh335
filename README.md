@@ -1,7 +1,7 @@
 # my-intro
 # Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Himanshu Singh
 
-**I am a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
+*I am a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
 
 I've got experience in Mobile App and web development using Flutter SDK and Dart as a programming language, I have expertise in SQLite for on-mobile database integration and back-end service integration using Firebase (including firestore, oAuth, cloud messaging, hosting, cloud storage).I am currently perfecting my grip on nodeJS, expressJS and MongoDB in order to develop a strong hold on back-end services.
 
@@ -11,7 +11,7 @@ Lately I have also been exploring topics such as regressive machine learning usi
 
 I am also a passionate game developer. I’ve been using Unity/C# to develop fun games and to experiment with Unity Physics engine.
 
-Learning about new technologies and algorithms and using them in my applications helps me with the development of problem solving techniques and broaden my skill set**
+Learning about new technologies and algorithms and using them in my applications helps me with the development of problem solving techniques and broaden my skill set*
 
 #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
