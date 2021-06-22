@@ -13,8 +13,6 @@ I am also a passionate game developer. I’ve been using Unity/C# to develop fun
 
 Learning about new technologies and algorithms and using them in my applications helps me with the development of problem solving techniques and broaden my skill set**
 
- #### Stats:
- ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshusingh335&count_private=true&show_icons=true&theme=dark&hide=contribs,issues))
 #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
