@@ -20,10 +20,9 @@ Learning about new technologies and algorithms and using them in my applications
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
  * <img align="left" alt="Python" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" /> Python
  * <img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/social-226-96741.png" /> Git
- * <img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-2752187-2285004.png" /> Flutter
- * Unity-C#
- * NodeJS
- * ExpressJS
+ * <img align="left" alt="Flutter" width="20px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-2752187-2285004.png" /> Flutter
+ * <img align="left" alt="Unity" width="20px" src="https://cdn.iconscout.com/icon/free/png-128/unity-2749374-2284764.png" /> Unity-C#
+ * <img align="left" alt="Node" width="20px" src="https://cdn.iconscout.com/icon/free/png-128/node-2336954-1982835.png" /> NodeJS
  
  **Feel Free to connect!**
 
