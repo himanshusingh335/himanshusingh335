@@ -1,16 +1,16 @@
 # Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Himanshu Singh
 
-I am a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
+Himanshu Singh is a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
 
-I've got front-end development experience in Mobile App and web development using Flutter SDK and Dart as a programming language, I have expertise in SQLite for on-mobile database integration and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python) .I am currently perfecting my grip on flask-python and SQLite in order to develop a strong hold on back-end services. 
+He has front-end development experience in Mobile App and web development using Flutter SDK and Dart as a programming language, expertise in SQLite for on-mobile database integration and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python) .He is currently perfecting his grip on flask-python and SQLite in order to develop a strong hold on back-end services.
 
-I am actively involved in hardware programming and prototyping using Arduino (C++) and Raspberry Pi (Python).
+He is actively involved in hardware programming and prototyping using Arduino (C++) and Raspberry Pi (Python).
 
-I regularly contribute to the open source community via Git/Github.
+He regularly contributes to the open source community via github.
 
-I practice competitive programming using C/C++ to enhance my problem solving skills 
+He practices competitive programming using C/C++ to enhance his problem solving skills
 
-Learning about new technologies and algorithms and using them in my applications helps me with the development of problem solving techniques and broaden my skill set
+Learning about new technologies and algorithms and using them in his applications helps him with the development of problem solving techniques and to broaden his skill set
  **Feel Free to connect!**
 
 
