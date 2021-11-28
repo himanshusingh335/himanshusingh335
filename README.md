@@ -2,15 +2,19 @@
 
 Himanshu Singh is a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
 
-He has front-end development experience in Mobile App and web development using Flutter SDK and Dart as a programming language, expertise in SQLite for on-mobile database integration and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python) .He is currently perfecting his grip on flask-python and SQLite in order to develop a strong hold on back-end services.
+He has immense experience in cross platform mobile app development using Flutter SDK, expertise in SQLite and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python).
+
+He uses LAMP stack for creating things that live on the web.
 
 He is actively involved in hardware programming and prototyping using Arduino (C++) and Raspberry Pi (Python).
 
-He regularly contributes to the open source community via github.
+He uses git for version management of his projects and regularly contributes to the open source community via github. He regularly participates in open source based events such as Hacktoberfest to return to the community by adding more value to other's open source projects by contributing and collaborating. 
 
 He practices competitive programming using C/C++ to enhance his problem solving skills
 
-Learning about new technologies and algorithms and using them in his applications helps him with the development of problem solving techniques and to broaden his skill set
+Learning about new technologies and algorithms and using them in his applications helps him with the development of problem solving techniques and to broaden his skill set.
+
+He loves playing badminton and has avid interest in bird photography.
  **Feel Free to connect!**
 
 
