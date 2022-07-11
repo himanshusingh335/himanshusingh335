@@ -1,4 +1,4 @@
-# Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Himanshu Singh
+# Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="2px"> This is Himanshu Singh
 
 Himanshu Singh is a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
 
