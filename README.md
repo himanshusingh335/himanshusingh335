@@ -1,6 +1,6 @@
 # Hi there, this is Himanshu Singh
 
-Himanshu Singh is a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
+Himanshu Singh is a final year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.
 
 He has immense experience in cross platform mobile app development using Flutter SDK, expertise in SQLite and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python).
 
