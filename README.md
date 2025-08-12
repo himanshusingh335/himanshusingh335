@@ -1,6 +1,6 @@
 # Hi there, this is Himanshu Singh
 
-Himanshu is a data analyst with close to 2 year’s experience with a passion for building intelligent, cloud-native applications that blend AI agents and serverless architectures. My work often sits at the intersection of data engineering, generative AI, and automation.
+Himanshu is a data analyst with close to 2 year’s experience with a passion for building intelligent, cloud-native applications that blend AI agents and serverless architectures. His work often sits at the intersection of data engineering, generative AI, and automation.
 
 He has immense experience in cross platform mobile app development using Flutter SDK, expertise in SQLite and back-end service integration using Firebase (including firestore, firebase Auth based on OAuth, cloud messaging, hosting, firebase storage, adminSDK using python).
 
